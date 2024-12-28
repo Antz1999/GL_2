@@ -1,0 +1,3 @@
+export const MIXCLOUD_URL = 'https://www.mixcloud.com/glimpse_london/glimpselondon-musicboxradio-15th-dec-2024/';
+export const MIXCLOUD_EMBED_URL = 'https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=0&feed=%2Fglimpse_london%2Fglimpselondon-musicboxradio-15th-dec-2024%2F';
+export const SHOW_ARTWORK_URL = 'https://thumbnailer.mixcloud.com/unsafe/756x756/extaudio/6/b/a/b/78ce-4c24-442e-bd00-bc8e66ce12bb';
